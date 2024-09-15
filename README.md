@@ -22,5 +22,8 @@
 
 ## Screenshot
 
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+<p align="center">
+  <img src="form.png" alt="Lampiran Form" width="45%" style="margin-right: 10px;" />
+  <img src="hasil.png" alt="Lampiran Hasil" width="45%" />
+</p>
+
